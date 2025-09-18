@@ -392,8 +392,6 @@ over them. For instance, a little further down the [page](https://flatironschool
 courses offered by Flatiron School. We can practice iterating by trying to
 scrape the titles of all courses from these elements.
 
-[page]: flatironschool.com
-
 ![courses](https://curriculum-content.s3.amazonaws.com/web-development/ruby/scraping_flatironschool_courses.png)
 
 This time, if we hover over one of the elements containing a course, we'll see
